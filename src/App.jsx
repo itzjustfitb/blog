@@ -9,8 +9,6 @@ function App() {
     <>
       <Header />
       <Routing />
-      {/*  */}
-      <h1>Salam</h1>
       <Card />
     </>
   );
