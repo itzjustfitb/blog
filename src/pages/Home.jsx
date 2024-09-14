@@ -5,7 +5,9 @@ function Home() {
   return (
     <main id="home">
       <Hero />
-      <div></div>
+      <div>
+        eyyub
+      </div>
     </main>
   );
 }
