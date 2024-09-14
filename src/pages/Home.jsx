@@ -5,9 +5,6 @@ function Home() {
   return (
     <main id="home">
       <Hero />
-      <div>
-        eyyub
-      </div>
     </main>
   );
 }
